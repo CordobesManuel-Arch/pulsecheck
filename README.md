@@ -1,6 +1,6 @@
-# PulseCheck
+# PulseCheck — Monitor HTTP concurrente
 
-Monitor HTTP simple escrito en Go. Lee una lista de URLs, ejecuta comprobaciones concurrentes y muestra estado, código HTTP y latencia.
+Comprueba múltiples URLs en paralelo, mide latencia y muestra rápidamente qué servicios responden y cuáles fallan.
 
 ## Uso
 
